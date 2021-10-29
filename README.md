@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💬 Ask me about marketing, statistics, data science and machine learning
+💬 Ask me about marketing, statistics, data science and machine learning! 
 
 🔭 I’m currently working on:
 * creating content for an NLP toolbox
@@ -8,7 +8,9 @@
 * occasionally writing a thinkpiece on [Medium](https://medium.com/@ceethinwa)
 * sharing research, data and mathematical concepts [here](https://applysocialstats.com/)
 
-🌱 I’m currently learning data engineering and deployment of machine learning models
+🌱 I’m currently learning data engineering and deployment of machine learning models.
+
+👩‍💻 Looking for research, product analytics and data science opportunities 😄
 
 <!--
 **CeeThinwa/CeeThinwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
