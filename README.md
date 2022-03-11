@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning data engineering and deployment of machine learning models.
 
-👩‍💻 Looking for research, product analytics and data science opportunities 😄
+👩‍💻 Looking for opportunities to collaborate in research, product analytics and data science 😄
 
 <!--
 **CeeThinwa/CeeThinwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
