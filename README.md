@@ -3,10 +3,11 @@
 💬 Ask me about marketing, statistics, data science and machine learning! 
 
 🔭 I’m currently working on:
-* creating content for an NLP toolbox
+* creating content for an NLP toolbox; check out the first post [here](https://medium.com/@ceethinwa/delivering-success-in-natural-language-processing-projects-part-one-40c4775cf6a9)!
 * documenting my experiences on [LinkedIn](https://www.linkedin.com/in/cynthiathinwa/)
 * occasionally writing a thinkpiece on [Medium](https://medium.com/@ceethinwa)
 * sharing research, data and mathematical concepts [here](https://applysocialstats.com/)
+* sharing machine learning concepts [here](https://ceethinwa.github.io/knowledge-hub)
 
 🌱 I’m currently learning data engineering and deployment of machine learning models.
 
